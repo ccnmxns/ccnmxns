@@ -11,5 +11,4 @@
 
 #+END_CENTER
 
-And more... Stuff like Argo Workflows, ArgoCD, PostgreSQL on Kubernetes, persistence, etc...
--->
+And more... Stuff like Argo Workflows, ArgoCD, PostgreSQL on Kubernetes, persistence, etc... 
