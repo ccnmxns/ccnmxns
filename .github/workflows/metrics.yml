@@ -10,6 +10,8 @@ on:
 jobs:
   my-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: main-acc
         uses: lowlighter/metrics@latest
