@@ -15,7 +15,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           # Output
-          filename: files/main-acc.svg
+          filename: metrics.plugin.main-acc.svg
 
           # Your GitHub token
           token: ${{ secrets.METRICS }}
@@ -32,7 +32,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           # Output
-          filename: files/topics.svg
+          filename: metrics.plugin.topics.svg
 
           # Your GitHub token
           token: ${{ secrets.METRICS }}
@@ -52,7 +52,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           # Output
-          filename: files/langs.svg
+          filename: metrics.plugin.langs.svg
 
           # Your GitHub token
           token: ${{ secrets.METRICS }}
@@ -71,7 +71,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           # Output
-          filename: files/music.svg
+          filename: metrics.plugin.music.svg
 
           # Your GitHub token
           token: ${{ secrets.METRICS }}
