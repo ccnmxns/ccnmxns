@@ -1,5 +1,7 @@
 # Hi there 👋
 
+<img src='/metrics.plugin.chunk.svg'>
+
 ## Tech stuff I work with...
 
 | Operating Systems | Abstraction Layers | Programming languages | Public & private clouds | Editors & IDEs | Database Systems | Automation toolsets |
