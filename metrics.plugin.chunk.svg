@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            400 Commits
+                            402 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -317,17 +317,17 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcD/8QALhAAAQMDBAEDAwIHAAAAAAAAAQIDBAAFEQYSITFBEyJxB1FhFLEjMjOBkaHR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwECBP/EAB8RAAIBBAMBAQAAAAAAAAAAAAECAAMREiETIjEEI//aAAwDAQACEQMRAD8A0MWnTllypV+hXmKhsq9NhvaVnHCUjcTn4HRqfuEnTb9xbWxY1oUkgbXHVJITgeAM+PvTxiU/BvkSDCgsIacQXHlbQSEg4JH7VOfU3R7N3u4viwq32lpCXH5CW+hkA7R8nA/JrFNEvxqIVaj+eROo1tt1m2W4TXrW+8ww+k+mz6K1pBx5J8DscmvbUurJepNNN2i6X4xHd5cW4Iq+cZwDgDistw1Vb1aLcg2J2JHeCkpYnuK2uqGcAK45OOOayfSaxCDqa4N6pBkSpLYcKFKJyknvA8U2CINDUFKVyEWS1+/VRYrTEeVFuLSAEBxolCifynx8UV1DVeh7XLeWbSyENhWQjOQT0eT8eaKDgp+jUy3zb3NUU2Z6xR3UpchPhK3HJDT25xvnGN2AFDA6xUJ9RL3JXpx+3uZeZdQn0nGxj2BQOVDwSM/j9qc6aak2ywuWy4SkOtEkJITlewjBAJ66rnurlyWZIt8NSFoZGfV5JKetpz2QDjNdLYq/UysHv2nQLxoyzP8A09BYbSiYG/Ubc3D+fAwefv18VxPTGprpZnpchhxK1uj+IHhu93PI8gg1fQNWNojCDLnFtiRECVoKNwQ6nIycc/2/7UM5p6ZInR4lvSh92YkvoShWDt57z0eKtJWF841Vl1x+y20FfLg4bgbmlbmSl1AK9oG4HJ6PeBRVPofRCbbYm27q2sTVqUpwtryB9hweeKKJ3F9RkAt29jtLII93dKX7Ky7KefVlSlgDnoAUUVmaIvFSdIW92cJrhQh0H+ilPtX1yf8Af+KcacsCYOqHrghKS25GSynPaSDyB+MUUVS7HRN5DTUHQlolWB7aKKKzLP/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Reload</div>
-                                    <div class="artist">Born On Road &amp; A Little Sound</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAQFBgIDBwj/xAAsEAABAwMDAgUEAwEAAAAAAAABAgMEAAUREiExBkEHExRhkSJCUYFicYKx/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUAAQMC/8QAHhEAAwACAgMBAAAAAAAAAAAAAAECAxESMRMhQVH/2gAMAwEAAhEDEQA/ANXIb52qe83VyQjnalHX4lqt0y83FlchiIUJbjI5kPLOG28ngE8+1PnlUrbFfj29IRTZp70db7cOQplCdSl6DjH596kuN7Z2wav23qPqNmQ3OulzW9KyVKjNgJjIB+wJAyQBtkknvS/WOhvqtgx20tQ7hb0zENpGwc1ELx8p/e/erjLXJK12VWOdNy+iAtvnaim1ooonZjo2EjYkdqk9UhLtq6aYIV5Krwpbm30qWllRbyfbc4rDt+JUlMRIkW1l6QBguB0pST+cY2+az8jxCmvR3o86U0W1uJcQltAyytO4KcUuqK9bCua+HqUyIo7AHJ4we9J9TO+p61iW5letiwW5Mdah9zzpClA/0Ej5rz5XipOKI6IbsZEoq0+oLR+n+ShvsPYZNavp1y2tsLTEuabhNkrL0h5SsOOrI3OnkDtjsKrbq0/iOkkpf6yq42TwSP1RXNKsqxg/FFE+Qx4HzlJuTilEN58vj6jvSSnwrYtgf6oopPea67YznHK6R0hZCNTajzv7U9HuTrSknWrUNwQcEUUVIyVL9EcKuym11FO81LnrZerGCfOVn/tFFFFTlrRk4R//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Castles</div>
                                     <div class="artist">Hybrid Minds &amp; Tom Walker</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcD/8QALhAAAQMDBAEDAwIHAAAAAAAAAQIDBAAFEQYSITFBEyJxB1FhFLEjMjOBkaHR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwECBP/EAB8RAAIBBAMBAQAAAAAAAAAAAAECAAMREiETIjEEI//aAAwDAQACEQMRAD8A0MWnTllypV+hXmKhsq9NhvaVnHCUjcTn4HRqfuEnTb9xbWxY1oUkgbXHVJITgeAM+PvTxiU/BvkSDCgsIacQXHlbQSEg4JH7VOfU3R7N3u4viwq32lpCXH5CW+hkA7R8nA/JrFNEvxqIVaj+eROo1tt1m2W4TXrW+8ww+k+mz6K1pBx5J8DscmvbUurJepNNN2i6X4xHd5cW4Iq+cZwDgDistw1Vb1aLcg2J2JHeCkpYnuK2uqGcAK45OOOayfSaxCDqa4N6pBkSpLYcKFKJyknvA8U2CINDUFKVyEWS1+/VRYrTEeVFuLSAEBxolCifynx8UV1DVeh7XLeWbSyENhWQjOQT0eT8eaKDgp+jUy3zb3NUU2Z6xR3UpchPhK3HJDT25xvnGN2AFDA6xUJ9RL3JXpx+3uZeZdQn0nGxj2BQOVDwSM/j9qc6aak2ywuWy4SkOtEkJITlewjBAJ66rnurlyWZIt8NSFoZGfV5JKetpz2QDjNdLYq/UysHv2nQLxoyzP8A09BYbSiYG/Ubc3D+fAwefv18VxPTGprpZnpchhxK1uj+IHhu93PI8gg1fQNWNojCDLnFtiRECVoKNwQ6nIycc/2/7UM5p6ZInR4lvSh92YkvoShWDt57z0eKtJWF841Vl1x+y20FfLg4bgbmlbmSl1AK9oG4HJ6PeBRVPofRCbbYm27q2sTVqUpwtryB9hweeKKJ3F9RkAt29jtLII93dKX7Ky7KefVlSlgDnoAUUVmaIvFSdIW92cJrhQh0H+ilPtX1yf8Af+KcacsCYOqHrghKS25GSynPaSDyB+MUUVS7HRN5DTUHQlolWB7aKKKzLP/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Reload</div>
+                                    <div class="artist">Born On Road &amp; A Little Sound</div>
                                 </div>
                             </div>
                         </div>
@@ -336,7 +336,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2026, 09:55:53 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jan 2026, 09:59:17 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
