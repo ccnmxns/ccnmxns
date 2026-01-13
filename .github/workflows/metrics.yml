@@ -13,11 +13,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: main-acc
+      - name: main-chunk
         uses: lowlighter/metrics@latest
         with:
           # Output
-          filename: metrics.plugin.main-acc.svg
+          filename: metrics.plugin.chunk.svg
 
           # Your GitHub token
           token: ${{ secrets.METRICS }}
@@ -29,53 +29,15 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Madrid
 
-
-      - name: topics
-        uses: lowlighter/metrics@latest
-        with:
-          # Output
-          filename: metrics.plugin.topics.svg
-
-          # Your GitHub token
-          token: ${{ secrets.METRICS }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Options
-          user: ccnmxns
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
 
-
-
-      - name: languages
-        uses: lowlighter/metrics@latest
-        with:
-          # Output
-          filename: metrics.plugin.langs.svg
-
-          # Your GitHub token
-          token: ${{ secrets.METRICS }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Options
-          user: ccnmxns
           plugin_languages: yes
           plugin_languages_categories: data, markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
 
-      - name: music
-        uses: lowlighter/metrics@latest
-        with:
-          # Output
-          filename: metrics.plugin.music.svg
-
-          # Your GitHub token
-          token: ${{ secrets.METRICS }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Options
           plugin_music: yes
           plugin_music_provider: apple
           plugin_music_playlist: https://embed.music.apple.com/es/playlist/usr-share/pl.u-gxblkLlIW9G7Ke?l=en
