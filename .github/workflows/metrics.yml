@@ -9,7 +9,7 @@ on:
 
 jobs:
   my-metrics:
-    runs-on: ubuntu-slim
+    runs-on: ubuntu-latest
     steps:
       - name: main-acc
         uses: lowlighter/metrics@latest
