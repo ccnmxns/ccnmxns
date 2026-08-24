@@ -35,7 +35,7 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            372 Commits
+                            374 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -310,10 +310,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAQGBwUD/8QALRAAAQMDAgMHBAMAAAAAAAAAAQIDEQAEBRIhBjFBExQiUWFxoRUjQ8FSYrH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMABP/EABoRAQADAQEBAAAAAAAAAAAAAAABAhExElH/2gAMAwEAAhEDEQA/AOgzfla9Ww6UXfpk9o4U9dhJqpnIFKjvvzNQrjIqUqBJUfKr45dXuwyjJcKEOAnV4ZTCiPXeKtNu/qaSQqsVsckpu8QDOqfOtExuWCrVMq+aWajErbb3fjAnf3pVWGSAfSpMwKUuG9MhcfUlW8+1TMN3F1SvqYuVc47vuUxsZiuFePLClA8/U1z0tpuioKuWmVAgfcMAzVLRsdLXrSWmuEwouNoyTqh4jqnc9ZAH+1Kt7uxfcW1avLtkto1p7wOY6CstdxSGiCq9tlp06pQsHy2+fivR/RYOAJumXvF+JUxtP7j3mpVpP1W0xnGiIyg1mVmNuu00qjMZCYlWxpVkU/G5ayx5fF9hbXJ6yCnt3FoKPbSRzo9xLgNUucF48j0u3h+6UrDWUY8S8MiQrgpiD/HIvivFXEfCZkq4Lg/1yju3xSlLh9czOZnDXaGBhsMvGrSo9oVXintY6DcCKUpRB//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwECBAP/xAAtEAABAwMCBQIFBQAAAAAAAAABAgMEAAUREkEGEyExYRRSIiMyUXEHQnJzkf/EABkBAAIDAQAAAAAAAAAAAAAAAAAEAQIDBf/EACMRAAEEAQMEAwAAAAAAAAAAAAEAAgMEEQUSITFBUWETFJH/2gAMAwEAAhEDEQA/AEvLDbuHFhI96RjpnzSDiJ2PzFBTiSBsojJ/yuyS468r5yyVnppT0FOuDrHDkevuN1b5kSC1zFNj6nD2Cc7ZOBSJtgEBnJK7jNGc2IzTHa0cqlr00XnVltACNilOM0icaUk4wavWb+oFgdTJjuQ7a2lCVctlUDDLhH7Q6DrztqxjO1JeKeHLW5HgXO0hSYNxYEhpCuqkZ6KScbggjO9bySOhx8g6pStVjuEtgPI7FVBiipW/YStzS0lSlHsAOtFH2I/KH6XYacYVrR7lGujKVzmWJCD9MuH8Ch+U01tjnoGprbeqfbZjJZdDPRxA7hWk7g4NUNZL4/bT8pZ0numpjA4ujO4Mglp33JViqu0kAiSq7BHY9EpFrVqBhhnG9h/V5XDhFBunMjuOKRq1AcpeQfvpI7+M481Lk22ZIjxW5ZRbbXFaDLKXFfHpHXPkk5J8muEcTp5YIujpT/Z1qOXfi5jUrl6n1+5as0T1bdjAlw0elarq0VbJqxncfJ6KQXriCLY4hTZmglfb1Lgys/xG1FVZc7q7Oc1uH8fYUVm3Ta7RgjJ8lUfcszHfI859JZmttR8UUU7khZYQFnG9YJzRRQXEqMYWKKKKFK//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">The World Is Yours</div>
-                                    <div class="artist">Vanilla Sky</div>
+                                    <div class="name">Cartagena</div>
+                                    <div class="artist">Pendulum</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -324,10 +324,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwECBAP/xAAtEAABAwMCBQIFBQAAAAAAAAABAgMEAAUREkEGEyExYRRSIiMyUXEHQnJzkf/EABkBAAIDAQAAAAAAAAAAAAAAAAAEAQIDBf/EACMRAAEEAQMEAwAAAAAAAAAAAAEAAgMEEQUSITFBUWETFJH/2gAMAwEAAhEDEQA/AEvLDbuHFhI96RjpnzSDiJ2PzFBTiSBsojJ/yuyS468r5yyVnppT0FOuDrHDkevuN1b5kSC1zFNj6nD2Cc7ZOBSJtgEBnJK7jNGc2IzTHa0cqlr00XnVltACNilOM0icaUk4wavWb+oFgdTJjuQ7a2lCVctlUDDLhH7Q6DrztqxjO1JeKeHLW5HgXO0hSYNxYEhpCuqkZ6KScbggjO9bySOhx8g6pStVjuEtgPI7FVBiipW/YStzS0lSlHsAOtFH2I/KH6XYacYVrR7lGujKVzmWJCD9MuH8Ch+U01tjnoGprbeqfbZjJZdDPRxA7hWk7g4NUNZL4/bT8pZ0numpjA4ujO4Mglp33JViqu0kAiSq7BHY9EpFrVqBhhnG9h/V5XDhFBunMjuOKRq1AcpeQfvpI7+M481Lk22ZIjxW5ZRbbXFaDLKXFfHpHXPkk5J8muEcTp5YIujpT/Z1qOXfi5jUrl6n1+5as0T1bdjAlw0elarq0VbJqxncfJ6KQXriCLY4hTZmglfb1Lgys/xG1FVZc7q7Oc1uH8fYUVm3Ta7RgjJ8lUfcszHfI859JZmttR8UUU7khZYQFnG9YJzRRQXEqMYWKKKKFK//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAQGBwUD/8QALRAAAQMDAgMHBAMAAAAAAAAAAQIDEQAEBRIhBjFBExQiUWFxoRUjQ8FSYrH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMABP/EABoRAQADAQEBAAAAAAAAAAAAAAABAhExElH/2gAMAwEAAhEDEQA/AOgzfla9Ww6UXfpk9o4U9dhJqpnIFKjvvzNQrjIqUqBJUfKr45dXuwyjJcKEOAnV4ZTCiPXeKtNu/qaSQqsVsckpu8QDOqfOtExuWCrVMq+aWajErbb3fjAnf3pVWGSAfSpMwKUuG9MhcfUlW8+1TMN3F1SvqYuVc47vuUxsZiuFePLClA8/U1z0tpuioKuWmVAgfcMAzVLRsdLXrSWmuEwouNoyTqh4jqnc9ZAH+1Kt7uxfcW1avLtkto1p7wOY6CstdxSGiCq9tlp06pQsHy2+fivR/RYOAJumXvF+JUxtP7j3mpVpP1W0xnGiIyg1mVmNuu00qjMZCYlWxpVkU/G5ayx5fF9hbXJ6yCnt3FoKPbSRzo9xLgNUucF48j0u3h+6UrDWUY8S8MiQrgpiD/HIvivFXEfCZkq4Lg/1yju3xSlLh9czOZnDXaGBhsMvGrSo9oVXintY6DcCKUpRB//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Cartagena</div>
-                                    <div class="artist">Pendulum</div>
+                                    <div class="name">The World Is Yours</div>
+                                    <div class="artist">Vanilla Sky</div>
                                 </div>
                             </div>
                         </div>
@@ -336,7 +336,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Aug 2026, 02:26:29 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Aug 2026, 02:28:20 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
