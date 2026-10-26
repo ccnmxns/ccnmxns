@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            71 issue comments
+                            70 issue comments
                         </div>
                     </section>
                     <section>
@@ -310,6 +310,13 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAQGBwUD/8QALRAAAQMDAgMHBAMAAAAAAAAAAQIDEQAEBRIhBjFBExQiUWFxoRUjQ8FSYrH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMABP/EABoRAQADAQEBAAAAAAAAAAAAAAABAhExElH/2gAMAwEAAhEDEQA/AOgzfla9Ww6UXfpk9o4U9dhJqpnIFKjvvzNQrjIqUqBJUfKr45dXuwyjJcKEOAnV4ZTCiPXeKtNu/qaSQqsVsckpu8QDOqfOtExuWCrVMq+aWajErbb3fjAnf3pVWGSAfSpMwKUuG9MhcfUlW8+1TMN3F1SvqYuVc47vuUxsZiuFePLClA8/U1z0tpuioKuWmVAgfcMAzVLRsdLXrSWmuEwouNoyTqh4jqnc9ZAH+1Kt7uxfcW1avLtkto1p7wOY6CstdxSGiCq9tlp06pQsHy2+fivR/RYOAJumXvF+JUxtP7j3mpVpP1W0xnGiIyg1mVmNuu00qjMZCYlWxpVkU/G5ayx5fF9hbXJ6yCnt3FoKPbSRzo9xLgNUucF48j0u3h+6UrDWUY8S8MiQrgpiD/HIvivFXEfCZkq4Lg/1yju3xSlLh9czOZnDXaGBhsMvGrSo9oVXintY6DcCKUpRB//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">The World Is Yours</div>
+                                    <div class="artist">Vanilla Sky</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwECBAP/xAAtEAABAwMCBQIFBQAAAAAAAAABAgMEAAUREkEGEyExYRRSIiMyUXEHQnJzkf/EABkBAAIDAQAAAAAAAAAAAAAAAAAEAQIDBf/EACMRAAEEAQMEAwAAAAAAAAAAAAEAAgMEEQUSITFBUWETFJH/2gAMAwEAAhEDEQA/AEvLDbuHFhI96RjpnzSDiJ2PzFBTiSBsojJ/yuyS468r5yyVnppT0FOuDrHDkevuN1b5kSC1zFNj6nD2Cc7ZOBSJtgEBnJK7jNGc2IzTHa0cqlr00XnVltACNilOM0icaUk4wavWb+oFgdTJjuQ7a2lCVctlUDDLhH7Q6DrztqxjO1JeKeHLW5HgXO0hSYNxYEhpCuqkZ6KScbggjO9bySOhx8g6pStVjuEtgPI7FVBiipW/YStzS0lSlHsAOtFH2I/KH6XYacYVrR7lGujKVzmWJCD9MuH8Ch+U01tjnoGprbeqfbZjJZdDPRxA7hWk7g4NUNZL4/bT8pZ0numpjA4ujO4Mglp33JViqu0kAiSq7BHY9EpFrVqBhhnG9h/V5XDhFBunMjuOKRq1AcpeQfvpI7+M481Lk22ZIjxW5ZRbbXFaDLKXFfHpHXPkk5J8muEcTp5YIujpT/Z1qOXfi5jUrl6n1+5as0T1bdjAlw0elarq0VbJqxncfJ6KQXriCLY4hTZmglfb1Lgys/xG1FVZc7q7Oc1uH8fYUVm3Ta7RgjJ8lUfcszHfI859JZmttR8UUU7khZYQFnG9YJzRRQXEqMYWKKKKFK//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Cartagena</div>
@@ -323,20 +330,13 @@
                                     <div class="artist">Hybrid Minds &amp; Tom Walker</div>
                                 </div>
                             </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAQGBwUD/8QALRAAAQMDAgMHBAMAAAAAAAAAAQIDEQAEBRIhBjFBExQiUWFxoRUjQ8FSYrH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMABP/EABoRAQADAQEBAAAAAAAAAAAAAAABAhExElH/2gAMAwEAAhEDEQA/AOgzfla9Ww6UXfpk9o4U9dhJqpnIFKjvvzNQrjIqUqBJUfKr45dXuwyjJcKEOAnV4ZTCiPXeKtNu/qaSQqsVsckpu8QDOqfOtExuWCrVMq+aWajErbb3fjAnf3pVWGSAfSpMwKUuG9MhcfUlW8+1TMN3F1SvqYuVc47vuUxsZiuFePLClA8/U1z0tpuioKuWmVAgfcMAzVLRsdLXrSWmuEwouNoyTqh4jqnc9ZAH+1Kt7uxfcW1avLtkto1p7wOY6CstdxSGiCq9tlp06pQsHy2+fivR/RYOAJumXvF+JUxtP7j3mpVpP1W0xnGiIyg1mVmNuu00qjMZCYlWxpVkU/G5ayx5fF9hbXJ6yCnt3FoKPbSRzo9xLgNUucF48j0u3h+6UrDWUY8S8MiQrgpiD/HIvivFXEfCZkq4Lg/1yju3xSlLh9czOZnDXaGBhsMvGrSo9oVXintY6DcCKUpRB//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">The World Is Yours</div>
-                                    <div class="artist">Vanilla Sky</div>
-                                </div>
-                            </div>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Oct 2026, 03:56:43 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Oct 2026, 02:54:09 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
